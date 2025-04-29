@@ -1,0 +1,5 @@
+Category,Samples,Hallucinations,Hallucination_Rate,Avg_Similarity_To_Right,Avg_Similarity_To_Hallucinated
+knowledge,10,3,0.3,0.3479153074324131,0.23298424556851388
+dialogue,10,3,0.3,0.14806062560528516,0.16418225653469562
+general,10,6,0.6,0.44637627713382244,0.0
+OVERALL,30,12,0.4,0.3141174033905069,
